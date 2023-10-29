@@ -24,3 +24,5 @@ This project is a React Native-based music app designed to provide a seamless mu
 
 ##  Reference
 - Adobe xd file
+
+  https://github.com/sheikhabdulmoiz/khaledMusicApp-Task/assets/106825649/12bd4939-e5ab-48f1-a7ed-b11fb3e3080b
